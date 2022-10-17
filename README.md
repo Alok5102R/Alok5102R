@@ -21,8 +21,6 @@
 
 - 📄 Know about my experiences [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/)
 
-- ⚡ Fun fact **Nothing**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iam_thealok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_thealok" height="30" width="40" /></a>
@@ -40,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok5102r&show_icons=true&locale=en&layout=compact" alt="alok5102r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok5102r&" alt="alok5102r" /></p>
+
