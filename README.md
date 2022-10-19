@@ -7,19 +7,19 @@
 
 - 🌱 I’m currently learning **MongoDb**
 
-- 👯 I’m looking to collaborate on [whichcar](https://github.com/Alok5102R/)
+- 👯 I’m looking to collaborate on [whichcar](https://github.com/Alok5102R/whichcar)
 
-- 🤝 I’m looking for help with [whichcar](https://github.com/Alok5102R/)
+- 🤝 I’m looking for help with [whichcar](https://github.com/Alok5102R/whichcar)
 
-- 👨‍💻 All of my projects are available at [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/)
+- 👨‍💻 All of my projects are available at [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/services.html/)
 
 - 📝 I regularly write articles on [https://nextisnow.epizy.com/about.html/](https://nextisnow.epizy.com/about.html/)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Python, C++**
 
-- 📫 How to reach me **https://nextisnow.epizy.com/contact.html**
+- 📫 How to reach me [**LinkedIn**](https://linkedin.com/in/mralokkumar)
 
-- 📄 Know about my experiences [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/)
+- 📄 Know about my experiences [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/services.html/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
