@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok5102r&label=Profile%20views&color=0e75b6&style=flat" alt="alok5102r" /> </p>
 
-- 🔭 I’m currently working on [whichcar](https://github.com/Alok5102R/)
+- 🔭 I’m currently working on [whichcar](https://github.com/Alok5102R/whichcar)
 
 - 🌱 I’m currently learning **MongoDb**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/services.html/)
 
-- 📝 I regularly write articles on [https://nextisnow.epizy.com/about.html/](https://nextisnow.epizy.com/about.html/)
+- 📝 I regularly write articles on [https://nextisnow.epizy.com/about.html/](https://nextisnow.epizy.com/articles.html/)
 
 - 💬 Ask me about **Python, C++**
 
