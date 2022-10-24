@@ -11,15 +11,15 @@
 
 - 🤝 I’m looking for help with [whichcar](https://github.com/Alok5102R/whichcar)
 
-- 👨‍💻 All of my projects are available at [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/services.html/)
+- 👨‍💻 All of my projects are available at [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/services.html)
 
-- 📝 I regularly write articles on [https://nextisnow.epizy.com/about.html/](https://nextisnow.epizy.com/articles.html/)
+- 📝 I regularly write articles on [https://nextisnow.epizy.com/about.html/](https://nextisnow.epizy.com/articles.html)
 
 - 💬 Ask me about **Python, C++**
 
 - 📫 How to reach me [**LinkedIn**](https://linkedin.com/in/mralokkumar)
 
-- 📄 Know about my experiences [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/services.html/)
+- 📄 Know about my experiences [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/services.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
