@@ -21,6 +21,9 @@
 
 - 📄 Know about my experiences [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/services.html)
 
+<h3 align="left">Badges:</h3>
+[![@alok5102r's Holopin board](https://holopin.me/alok5102r)](https://holopin.io/@alok5102r)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iam_thealok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_thealok" height="30" width="40" /></a>
