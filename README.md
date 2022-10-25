@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/services.html)
 
-<h3 align="left">Badges:</h3>
+### Badges:
 [![@alok5102r's Holopin board](https://holopin.me/alok5102r)](https://holopin.io/@alok5102r)
 
 <h3 align="left">Connect with me:</h3>
