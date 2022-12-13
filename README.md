@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [whichcar](https://github.com/Alok5102R/whichcar)
 
-- 🌱 I’m currently learning **MongoDb**
+- 🌱 I’m currently learning **PyMongo**
 
 - 👯 I’m looking to collaborate on [whichcar](https://github.com/Alok5102R/whichcar)
-
-- 🤝 I’m looking for help with [whichcar](https://github.com/Alok5102R/whichcar)
 
 - 👨‍💻 All of my projects are available at [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/services.html)
 
