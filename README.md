@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok5102r&label=Profile%20views&color=0e75b6&style=flat" alt="alok5102r" /> </p>
 
-- 🔭 I’m currently working on [whichcar](https://github.com/Alok5102R/whichcar)
+- 🔭 I’m currently working on [ShabdGanga](https://github.com/Alok5102R/ShabdGanga)
 
 - 🌱 I’m currently learning **PyMongo**
 
 - 👯 I’m looking to collaborate on [whichcar](https://github.com/Alok5102R/whichcar)
 
-- 👨‍💻 All of my projects are available at [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/services.html)
+- 👨‍💻 All of my projects are available at [https://alok.wuaze.com/](https://alok.wuaze.com/)
 
 - 📝 I regularly write articles on [https://nextisnow.epizy.com/about.html/](https://nextisnow.epizy.com/articles.html)
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python, C++, Django, JS**
 
 - 📫 How to reach me [**LinkedIn**](https://linkedin.com/in/mralokkumar)
 
-- 📄 Know about my experiences [https://nextisnow.epizy.com/](https://nextisnow.epizy.com/services.html)
+- 📄 Know about my experiences [https://alok.wuaze.com/](https://alok.wuaze.com/)
 
 ### Badges:
 [![@alok5102r's Holopin board](https://holopin.me/alok5102r)](https://holopin.io/@alok5102r)
