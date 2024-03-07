@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ShabdGanga](https://github.com/Alok5102R/ShabdGanga)
 
-- 🌱 I’m currently learning **PyMongo**
+- 🌱 I’m currently focusing on **Django**
 
 - 👯 I’m looking to collaborate on [whichcar](https://github.com/Alok5102R/whichcar)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://nextisnow.epizy.com/about.html/](https://nextisnow.epizy.com/articles.html)
 
-- 💬 Ask me about **Python, C++, Django, JS**
+- 💬 Ask me about - **Python, C++, Django, JS, RestAPI**
 
 - 📫 How to reach me [**LinkedIn**](https://linkedin.com/in/mralokkumar)
 
