@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Multi-Agent-System](https://github.com/Alok5102R/Multi-Agent-System)
 
-- 🌱 I’m currently focusing on **Django**
+- 🌱 I’m currently focusing on **Agentic AI**
 
-- 👯 I’m looking to collaborate on [whichcar](https://github.com/Alok5102R/whichcar)
+- 👯 I’m looking to collaborate on ...
 
 - 👨‍💻 All of my projects are available at [https://alok.wuaze.com/](https://alok.wuaze.com/)
 
